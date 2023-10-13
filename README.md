@@ -6,7 +6,7 @@ Data Scientist
 
 * 🌍  I'm based in Santa Clara
 * ✉️  You can contact me at [brandon.lee01@sjsu.edu](mailto:brandon.lee01@sjsu.edu)
-* 🧠  I'm learning Linux/Unix
+* 🧠  I'm learning Linux and Shell Script Currently
 * ⚡  One of my favorite hobbies is Badminton
 
 ### Skills
